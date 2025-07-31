@@ -1,0 +1,2 @@
+# 16S1P-Passive-cell-Balancing-then-Discharging-or-Charging-for-Li-ion-battery-pack-used-in-EVs
+This project presents a simulation and control strategy for passive cell balancing followed by discharging or charging of a 16S1P Li-ion battery pack used in EVs. It focuses on enhancing battery safety, lifespan, and efficiency by addressing the issue of cell voltage or state-of-charge (SoC) imbalance in a series-connected battery configuration.
