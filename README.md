@@ -88,3 +88,22 @@ MATLAB
 Simulink and Simscape (Electrical)
 
 Basic understanding of BMS and battery modeling
+
+
+
+🏭 Industrial Visit: Palis Eco Vehicle Pvt. Ltd.
+As part of this project, an industrial visit was conducted at Palis Eco Vehicle Pvt. Ltd., a Bengaluru-based company specializing in the manufacturing of electric buggies and lightweight EVs.
+
+During the visit, we observed the practical implementation of 16S1P lithium-ion battery packs in their electric vehicles. These battery packs are designed with a focus on modularity, safety, and cost-effectiveness, aligning well with the objectives of our simulation.
+
+This visit provided valuable real-world insights into:
+
+Battery integration and packaging techniques in EVs
+
+Thermal and electrical safety considerations in live systems
+
+Balancing strategy requirements for effective BMS performance
+
+The importance of SoC uniformity for vehicle efficiency and battery longevity
+
+The experience bridged the gap between simulation and industry practice, reinforcing the importance of robust battery management strategies like the one developed in this project.
